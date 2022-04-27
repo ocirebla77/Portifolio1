@@ -1,0 +1,31 @@
+/* Tags */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h1,
+span {
+  color: darkblue;
+}
+
+/* IDs */
+#login {
+  background-color: black;
+  color: white;
+}
+
+#register {
+  background-color: rgb(55, 16, 145);
+  color: white;
+}
+
+/* classes */
+
+.span {
+  color: aquamarine;
+}
+
+.copy {
+  font-size: 12px;
+}
